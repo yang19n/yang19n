@@ -6,6 +6,10 @@
 #### -Enthusiasm in Data Analytics and learning new skills. Transition to Data Analytics and self-taught myself SQL from Mar. 2021
 #### -Skills: Data cleaning, Data processing, Data analysis, Data visualization
 #### -Tools: Python, MATLAB, R, Excel(Pivot Tables, Vlookup), Tableau, SQL
+#### -Certifications:
+      Google Data Analytics Professional Certificate (on Coursera)
+      Certificate of Completion: The Data Science Course 2021: Complete Data Science Bootcamp (on Udemy)
+      Certificate of Completion: The Business Intelligence Analyst Course 2021 (on Udemy)
 
 <!--
 **yang19n/yang19n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
