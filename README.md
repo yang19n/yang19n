@@ -7,9 +7,13 @@
 #### -Skills: Data cleaning, Data processing, Data analysis, Data visualization
 #### -Tools: Python, MATLAB, R, Excel(Pivot Tables, Vlookup), Tableau, SQL
 #### -Certifications:
-      Google Data Analytics Professional Certificate (on Coursera)
-      Certificate of Completion: The Data Science Course 2021: Complete Data Science Bootcamp (on Udemy)
-      Certificate of Completion: The Business Intelligence Analyst Course 2021 (on Udemy)
+##### 1. [Google Data Analytics Professional Certificate (on Coursera)](https://www.coursera.org/account/accomplishments/specialization/certificate/KZ68LLVWKS5W)
+##### 2. [Certificate of Completion: The Data Science Course 2021: Complete Data Science Bootcamp (on Udemy)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-f817df28-c27c-4a6b-834a-499cf06c7f2a.pdf)
+##### 3. [Certificate of Completion: The Business Intelligence Analyst Course 2021 (on Udemy)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-aafa6146-3112-4e65-9866-b321ffb8fe72.pdf)
+
+### ⚡ Examples of Projects and Case Studies
+##### 1. [Analysis of turublence on heat transfer enhancement using machine learning method](https://github.com/yang19n/Research-Project-Regression-Analysis)
+##### 2. [Analysis of fitness tracker usage](https://github.com/yang19n/Case-Study-Fitness-Tracker-Usage)
 
 <!--
 **yang19n/yang19n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
