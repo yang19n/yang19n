@@ -14,6 +14,7 @@
 ### ⚡ Examples of Projects and Case Studies
 ##### 1. [Analysis of turublence on heat transfer enhancement using machine learning method](https://github.com/yang19n/Research-Project-Regression-Analysis)
 ##### 2. [Analysis of fitness tracker usage](https://github.com/yang19n/Case-Study-Fitness-Tracker-Usage)
+##### 3. [Analysis of shared bike usage](https://github.com/yang19n/Case-Study-Shared-bike-usage)
 
 <!--
 **yang19n/yang19n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
