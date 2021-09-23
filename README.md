@@ -2,7 +2,7 @@
 #### I'm Yang, Data Analytics enthusiast located in Canada.
 
 ### 🤔 Brief introduction
-#### -Engineering background + 4-years Marketability Engineer + 3-years Research Assistant/Associate in Engineering
+#### -Engineering background + 4-years Marketability Engineer + 4-years Research Assistant/Associate in Engineering
 #### -Enthusiasm in Data Analytics and learning new skills. Transition to Data Analytics and self-taught myself SQL from Mar. 2021
 #### -Skills: Data cleaning, Data processing, Data analysis, Data visualization
 #### -Tools: Python, MATLAB, R, Excel(Pivot Tables, Vlookup), Tableau, SQL
