@@ -2,7 +2,7 @@
 #### I'm Yang, Data Analytics enthusiast located in Canada.
 
 ### 🤔 Brief introduction
-#### -Engineering background + 4-years Marketability Engineer + 4-years Research Assistant/Associate in Engineering
+#### -Engineering background + 4-years Marketability Engineer + 5-years Research Assistant/Associate in Engineering
 #### -Enthusiasm in Data Analytics and learning new skills. Self-taught myself SQL from Mar. 2021
 #### -Tools: Python, MATLAB, R, Excel(Pivot Tables, Vlookup), Tableau, SQL
 #### -Certifications:
@@ -14,6 +14,7 @@
 ##### 1. [Analysis of turublence on heat transfer enhancement using machine learning method](https://github.com/yang19n/Research-Project-Regression-Analysis)
 ##### 2. [Analysis of fitness tracker usage](https://github.com/yang19n/Case-Study-Fitness-Tracker-Usage)
 ##### 3. [Analysis of shared bike usage](https://github.com/yang19n/Case-Study-Shared-bike-usage)
+##### 4. [Optimization analysis using genetic algorithm](https://github.com/yang19n/Optimization_analysis_using_genetic_algorithm)
 
 <!--
 **yang19n/yang19n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
