@@ -4,7 +4,7 @@
 ### 🤔 Brief introduction
 #### -Engineering background + 4-years Marketability Engineer + 5-years Research Assistant/Associate in Engineering
 #### -Enthusiasm in Data Analytics and learning new skills. Self-taught myself SQL from Mar. 2021
-#### -Tools: Python, MATLAB, R, Excel(Pivot Tables, Vlookup), Tableau, SQL
+#### -Skills: Python, MATLAB, R, Excel(Pivot Tables, Vlookup), Tableau, SQL
 #### -Certifications:
 ##### 1. [Google Data Analytics Professional Certificate (on Coursera)](https://www.coursera.org/account/accomplishments/specialization/certificate/KZ68LLVWKS5W)
 ##### 2. [Certificate of Completion: The Data Science Course 2021: Complete Data Science Bootcamp (on Udemy)](https://udemy-certificate.s3.amazonaws.com/pdf/UC-f817df28-c27c-4a6b-834a-499cf06c7f2a.pdf)
